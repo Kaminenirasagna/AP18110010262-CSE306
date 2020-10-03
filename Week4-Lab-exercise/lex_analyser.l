@@ -1,4 +1,4 @@
-/* LEX analyser by keerthi.k
+/* LEX analyser by k.rasagna
 • A minimum of 10 keywords of your choice
 • Identifiers with the regular expression : letter(letter | digit)*
 • Signed as well as unsigned integers
